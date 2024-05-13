@@ -6,7 +6,7 @@
 
 --------------------------
 
-I've been coding since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me jumpstart my career toward software engineering. Please contact me for opportunities through my portfolio website.
+I've been coding since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me jumpstart my career toward software engineering. Please, contact me for opportunities through my portfolio website.
 
 *   🌍I'm based in Charlotte, NC
 *   🖥️See my portfolio at [Personal Portfolio](http://bh-phi.vercel.app/)
@@ -20,6 +20,8 @@ I've been coding since I started university. Since then, I've been passionate ab
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
