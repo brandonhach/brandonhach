@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi! My name is Brandon.
+Welcome! My name is Brandon.
 ====================================================================================================================================
 
  <img src="https://github.com/brandonhach/brandonhach/assets/58790036/f3131214-49e3-4b76-a971-54c7d6a6c1f5" alt="thonk" width="128">
@@ -6,10 +6,10 @@
 
 --------------------------
 
-I've been coding since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me jumpstart my career toward software engineering. Please, contact me for opportunities through my portfolio website.
+I've been programming since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me jumpstart my career toward software engineering. Please, contact me for opportunities through my portfolio website.
 
 *   🌍I'm based in Charlotte, NC
-*   🖥️See my portfolio at [Personal Portfolio](http://bh-phi.vercel.app/)
+*   🖥️See my portfolio at [Personal Portfolio](http://bh-phi.vercel.app/) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="16"/>
 *   🧠I'm learning Next.js & Springboot
 *   <img src="https://github.com/brandonhach/brandonhach/assets/58790036/477079b4-7053-48ba-b241-30755132a82f" width="16"> Aspiring Software Developer
 
