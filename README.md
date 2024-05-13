@@ -1,16 +1,44 @@
-### Hi there 👋
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi! My name is Brandon.
+====================================================================================================================================
 
-<!--
-**brandonhach/brandonhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="https://github.com/brandonhach/brandonhach/assets/58790036/f3131214-49e3-4b76-a971-54c7d6a6c1f5" alt="thonk" width="128">
+ <img src="https://github.com/brandonhach/brandonhach/assets/58790036/d7326d4c-c634-4345-b5a9-26f72dbb8176" alt="thonk" width="128"> 
 
-Here are some ideas to get you started:
+--------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been coding since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me jumpstart my career toward software engineering. Please contact me for opportunities through my portfolio website.
+
+*   🌍I'm based in Charlotte, NC
+*   🖥️See my portfolio at [Personal Portfolio](http://bh-phi.vercel.app/)
+*   🧠I'm learning Next.js & Springboot
+*   <img src="https://github.com/brandonhach/brandonhach/assets/58790036/477079b4-7053-48ba-b241-30755132a82f" width="16"> Aspiring Software Developer
+
+
+--------------------------
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Frameworks
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### DBMS
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Others
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonhach&label=Profile%20views&color=0e75b6&style=flat" alt="brandonhach" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonhach&show_icons=true&locale=en&layout=compact" alt="brandonhach" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonhach&show_icons=true&locale=en" alt="brandonhach" /></p>
+
+
