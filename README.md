@@ -37,6 +37,7 @@ I've been programming since I started university. Since then, I've been passiona
 #### Others
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonhach&label=Profile%20views&color=0e75b6&style=flat" alt="brandonhach" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonhach&show_icons=true&locale=en&layout=compact" alt="brandonhach" /></p>
