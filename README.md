@@ -1,8 +1,7 @@
-Welcome! My name is Brandon.
-====================================================================================================================================
-
- <img src="https://github.com/brandonhach/brandonhach/assets/58790036/f3131214-49e3-4b76-a971-54c7d6a6c1f5" alt="thonk" width="128">
- <img src="https://github.com/brandonhach/brandonhach/assets/58790036/d7326d4c-c634-4345-b5a9-26f72dbb8176" alt="thonk" width="128"> 
+<div align="center">
+  <h1>Welcome! My name is Brandon.</h1>
+  <img src="https://github.com/brandonhach/brandonhach/assets/58790036/6c316752-6141-4061-b171-bcd20cdf7448" alt="fish" width="378">
+</div>
 
 --------------------------
 
@@ -45,3 +44,5 @@ I've been programming since I started university. Since then, I've been passiona
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonhach&show_icons=true&locale=en" alt="brandonhach" /></p>
 
 
+ <img src="https://github.com/brandonhach/brandonhach/assets/58790036/f3131214-49e3-4b76-a971-54c7d6a6c1f5" alt="thonk" width="16">
+ <img src="https://github.com/brandonhach/brandonhach/assets/58790036/d7326d4c-c634-4345-b5a9-26f72dbb8176" alt="thonk" width="16"> 
