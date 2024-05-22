@@ -5,7 +5,7 @@
 
 --------------------------
 
-I've been programming since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me jumpstart my career toward software engineering. Please, contact me for opportunities through my portfolio website.
+I've been programming since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me hone my skills in software engineering. Please, contact me for opportunities through my portfolio website.
 
 *   🌍I'm based in Charlotte, NC
 *   🖥️See my portfolio at [Personal Portfolio](http://bh-phi.vercel.app/) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="16"/>
