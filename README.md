@@ -39,9 +39,8 @@ I've been programming since I started university. Since then, I've been passiona
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonhach&label=Profile%20views&color=0e75b6&style=flat" alt="brandonhach" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonhach&show_icons=true&locale=en&layout=compact" alt="brandonhach" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonhach&show_icons=true&locale=en" alt="brandonhach" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonhach&show_icons=true&locale=en&layout=compact&theme=dark" alt="brandonhach" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonhach&show_icons=true&locale=en&theme=dark" alt="brandonhach" /></p>
 
 
  <img src="https://github.com/brandonhach/brandonhach/assets/58790036/f3131214-49e3-4b76-a971-54c7d6a6c1f5" alt="thonk" width="16">
