@@ -5,12 +5,12 @@
 
 --------------------------
 
-I've been programming since I started university. Since then, I've been passionate about building web applications and looking forward to learning more technologies in the future to help me hone my skills in software engineering. Please, contact me for opportunities through my portfolio website.
+I've been programming since I started university, and I've been passionate about building web applications since then. I still work on my coding outside of school, but I also like to cook, curate music, and play games in my free time. 
 
 *   🌍I'm based in Charlotte, NC
 *   🖥️See my portfolio at [Personal Portfolio](http://bh-phi.vercel.app/) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="16"/>
 *   🧠I'm learning Next.js, Springboot, Angular, & AWS
-*   <img src="https://github.com/brandonhach/brandonhach/assets/58790036/477079b4-7053-48ba-b241-30755132a82f" width="16"> Aspiring Software Developer
+*   <img src="https://github.com/brandonhach/brandonhach/assets/58790036/477079b4-7053-48ba-b241-30755132a82f" width="16"> Aspiring SWE
 
 
 --------------------------
